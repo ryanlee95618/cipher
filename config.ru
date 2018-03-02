@@ -1,3 +1,3 @@
-require 'cipher'
+require './cipher'
 
 run Sinatra::Application
